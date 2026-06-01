@@ -1,30 +1,40 @@
-# Hi, I’m Ewithome 👋
+# 你好，我是 Ewithome
 
-I’m a developer who enjoys turning ideas into reliable, maintainable software. I care about clear communication, clean code, and practical solutions.
+专注于前端与 WebGIS 方向，热衷于用工程化、组件化与可视化把想法快速落地。
 
-## 🔧 What I do
+## 专业技能
 
-- Build and maintain web applications and services
-- Write automation tools and scripts to improve developer productivity
-- Explore DevOps practices (CI/CD, containers, monitoring)
+### 前端基础
 
-## 🧰 Tech I use
+- 精通 **HTML5 / CSS3 / JavaScript**，熟练 **jQuery**，掌握 **ES6+** 语法与特性
+- 熟练使用 **Pug** 模板编译语言
+- 熟练使用 **Sass / Less** 等预处理器
 
-- **Languages:** JavaScript/TypeScript, Python, (and whatever the project needs)
-- **Backend:** Node.js, REST APIs
-- **Frontend:** Modern web tooling (React/Vue as needed)
-- **Tools:** Git, GitHub Actions, Docker
+### 框架与生态
 
-## 📌 Interests
+- 熟练 **Vue2 / Vue3**，熟练 **Vue-Router / Vuex / Vue-Cli** 生态，能够搭建与维护单页应用（SPA）
+- 熟练 **Element-UI / LayerUI** 等前端 UI 框架
+- 熟练 **ECharts** 数据可视化
 
-- Software architecture and refactoring
-- Developer experience (DX) and tooling
-- Performance and reliability
+### WebGIS / 地图
 
-## 📫 Contact
+- 熟悉 **Cesium / OpenLayers / Leaflet**
+- 能加载与解析 **OGC** 标准服务：**WMS / WMTS / WFS** 等
 
-- GitHub: https://github.com/Ewithome
+### 工程化与效率
 
----
+- 熟练使用 **Mock.js** 模拟后台数据，提升联调效率
+- 熟练使用 **Swiper / i18n 多语言 / Day.js / BetterScroll** 等常用插件
+- 熟练使用 **NPM / Webpack** 完成项目配置与打包
+- 熟练使用 **Git / SVN / 码云（Gitee）** 进行团队协作开发
+- 熟练使用 **AI** 辅助写代码与写文档，提高交付效率
 
-> If you’d like to collaborate, feel free to open an issue or start a discussion.
+### 多端与服务端
+
+- 熟悉 **uni-app** 多端开发
+- 熟悉 **TypeScript**
+- 熟悉 **Node.js / Express / PM2 / MongoDB**
+
+## 联系方式
+
+- GitHub：https://github.com/Ewithome
